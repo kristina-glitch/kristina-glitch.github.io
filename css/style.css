@@ -543,3 +543,9 @@ button.modal-close {
 	color: red;
 	font-size: 12px;
 }
+button, a {
+	cursor: pointer;
+}
+button:hover, a:hover {
+	opacity: .8;
+}
